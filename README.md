@@ -1,3 +1,18 @@
+# Frontend Developer Test – Product Card
+
+I built a responsive Product Card component using real data from `fakestoreapi.com`. Each card displays product details, supports variant selection, and conditionally shows an “Add to Cart” or “Out of Stock” button. The layout is built mobile-first using Bootstrap, and filtering logic is implemented for product categories.
+
+## Live Demo
+
+Coming soon (optional)
+
+## Tech Stack
+
+- React
+- Bootstrap
+- Redux
+- React Router
+
 ## Run Locally
 
 Clone the project
@@ -17,7 +32,7 @@ Install dependencies
 ```bash
   npm install
 
-  or 
+  or
 
   npm install react-material-ui-carousel --save --legacy-peer-deps
 ```
